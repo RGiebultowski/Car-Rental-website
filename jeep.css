@@ -1,0 +1,15 @@
+#showcase{
+    min-height: 400px;
+    background: url(./img/jeepfront_00000.png) no-repeat;
+    text-align: center;
+    color: white;
+}
+
+.photobanner{
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

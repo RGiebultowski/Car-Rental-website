@@ -1,0 +1,17 @@
+
+/*Showcase*/
+#showcase{
+    min-height: 400px;
+    background: url(./img/charger20.png) no-repeat 0 -200px;
+    text-align: center;
+    color: white;
+}
+
+.photobanner{
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
